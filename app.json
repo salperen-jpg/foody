@@ -37,6 +37,17 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "0eddd196-8f9c-4e4b-9731-6d34339da467"
+      }
+    },
+    "owner": "salperens-team"
   }
 }
